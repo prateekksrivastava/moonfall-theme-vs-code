@@ -1,0 +1,26 @@
+{
+    "name": "Moonfall",
+    "displayName": "Moonfall",
+    "description": "",
+    "version": "0.0.1",
+    "icon": "icon.jpeg",
+    "publisher": "PrateekSrivastava",
+    "author": {
+        "name": "Prateek Srivastava"
+      },
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Moonfall",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Matrix-color-theme.json"
+            }
+        ]
+    }
+}
